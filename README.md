@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>THE OLYMPICS DATA</title>
+	<title></title>
 </head>
 <body>
+	<h1>THE OLYMPICS DATA</h1>
 	<p>
 		<h2>Creating visualization graphs by using python with the dataset provided of olympic data. Sorted the data given and using main subject USA  showing the difference of the Gold, Silver and Bronze medals from the total number of the medals.</h2>
 	</p>
