@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><h1>THE OLYMPICS DATA<h1></title>
+	<title>THE OLYMPICS DATA</title>
 </head>
 <body>
 	<p>
